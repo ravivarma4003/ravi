@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
- printf("im varma");
+ printf("im varma");//varma is the boss
 }
